@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>SO2_column_number_density</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0.00025393083035162</MDI>
+      <MDI key="STATISTICS_MEAN">1.9005860564346e-05</MDI>
+      <MDI key="STATISTICS_MINIMUM">-0.00029256816164815</MDI>
+      <MDI key="STATISTICS_STDDEV">0.00011256442221809</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.8</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

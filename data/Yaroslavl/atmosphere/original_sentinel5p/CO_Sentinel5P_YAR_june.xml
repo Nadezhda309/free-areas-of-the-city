@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>CO_column_number_density</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0.039140882163137</MDI>
+      <MDI key="STATISTICS_MEAN">0.03742271385453</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.035984166776219</MDI>
+      <MDI key="STATISTICS_STDDEV">0.00063296335974084</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">99.8</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
